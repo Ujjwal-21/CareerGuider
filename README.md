@@ -23,7 +23,8 @@ If then also they have some doubts then a chatbot is available for 24 X 7 hours.
  - [AZURE COGNITIVE SERVICE]
 # Home page : 
 
-![Screenshot 2022-07-08 at 8 49 47 PM](https://user-images.githubusercontent.com/88342385/178023460-37d4d687-7ac3-420a-b284-777c042e9276.png)
+![homepage](https://user-images.githubusercontent.com/109910953/208711664-28d61cd4-1703-43a5-847d-8b2464586c2d.jpeg)
+
 
 #  Policy Plan Details Page:
 
