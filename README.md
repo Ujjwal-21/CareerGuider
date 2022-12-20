@@ -26,10 +26,10 @@ If then also they have some doubts then a chatbot is available for 24 X 7 hours.
 ![homepage](https://user-images.githubusercontent.com/109910953/208711664-28d61cd4-1703-43a5-847d-8b2464586c2d.jpeg)
 
 
-#  Policy Plan Details Page:
+#  Examination Details Page:
 
-![Screenshot 2022-07-08 at 8 50 38 PM](https://user-images.githubusercontent.com/88342385/178023949-f4fdb1ce-6195-487d-9c78-bf752cd6ebae.png)
-![Screenshot 2022-07-08 at 8 50 56 PM](https://user-images.githubusercontent.com/88342385/178024112-b6b2f8ab-2d15-464b-b639-2d5553fd1db7.png)
+![Exams](https://user-images.githubusercontent.com/109910953/208712524-7b511b4c-cd13-4e33-ab9a-026a6c789cb7.jpeg)
+
 
 # Premium Calculator Page: 
 
