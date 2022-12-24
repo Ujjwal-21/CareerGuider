@@ -36,16 +36,18 @@ If then also they have some doubts then a chatbot is available for 24 X 7 hours.
 ![Colleges page](https://user-images.githubusercontent.com/109910953/209434372-36793682-0916-469c-8b2b-1fb0e519f50b.jpeg)
 
 
-#  About Us Page:
-![Screenshot 2022-07-08 at 8 54 02 PM](https://user-images.githubusercontent.com/88342385/178043115-04d1fc93-8ed6-43ab-b20d-09d8b2bee109.png)
+#  Rank Predictor:
+![Rank-1](https://user-images.githubusercontent.com/109910953/209434447-3bca28e7-e0fd-4232-a4ca-e4a5e6fbeef9.jpeg)
+![Rank2](https://user-images.githubusercontent.com/109910953/209434493-edc2f02c-b112-46c7-bcca-540c3acf1225.jpeg)
 
 #  Contact Us Page:
-![Screenshot 2022-07-08 at 8 54 19 PM](https://user-images.githubusercontent.com/88342385/178043247-21478650-82a5-4f1e-b9b9-b58575185ae6.png)
+![contactus](https://user-images.githubusercontent.com/109910953/209434983-20c15c54-9f5d-4bb5-bb7b-497996a1a41a.jpeg)
 
 # Chat With Us (Chatbot) Page :
 
-![Screenshot 2022-07-09 at 8 00 09 AM](https://user-images.githubusercontent.com/88342385/178088432-f9d6b709-f49f-4fca-99fa-18d9e90cecce.png)
-![Screenshot 2022-07-09 at 8 01 40 AM](https://user-images.githubusercontent.com/88342385/178088435-541b1139-b0d7-4574-b549-aa4d29dfed6d.png)
+![chatbot](https://user-images.githubusercontent.com/109910953/209434524-004cd7f8-fc8d-4af2-a8f7-334e0eac1307.jpeg)
+![chatbot1](https://user-images.githubusercontent.com/109910953/209434850-e305bd39-6274-46ae-8a8e-b2a28498494c.jpeg)
+
 
 
 <br>
