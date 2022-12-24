@@ -31,11 +31,10 @@ If then also they have some doubts then a chatbot is available for 24 X 7 hours.
 ![Exams](https://user-images.githubusercontent.com/109910953/208712524-7b511b4c-cd13-4e33-ab9a-026a6c789cb7.jpeg)
 
 
-# Premium Calculator Page: 
+# Colleges Page: 
 
-![Screenshot 2022-07-08 at 8 53 33 PM](https://user-images.githubusercontent.com/88342385/178024491-240b13b2-b9bc-40e2-a752-beed404864e4.png)
-![Screenshot 2022-07-08 at 8 51 54 PM](https://user-images.githubusercontent.com/88342385/178024776-0f66452f-5ed9-4e95-83a0-4868001b509a.png)
-![Screenshot 2022-07-08 at 8 53 20 PM](https://user-images.githubusercontent.com/88342385/178024705-b372a378-3ffd-4a8e-a068-230b0e17f2bf.png)
+![Colleges page](https://user-images.githubusercontent.com/109910953/209434372-36793682-0916-469c-8b2b-1fb0e519f50b.jpeg)
+
 
 #  About Us Page:
 ![Screenshot 2022-07-08 at 8 54 02 PM](https://user-images.githubusercontent.com/88342385/178043115-04d1fc93-8ed6-43ab-b20d-09d8b2bee109.png)
