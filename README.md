@@ -6,12 +6,12 @@ https://jolly-bush-0f2a60a1e.2.azurestaticapps.net
 </h1>
 
 #  CAREERGUIDER
-
-PLX Life Insurance is one of the top life insurance company of our country.<br>
-It is continiously serving citizens of the country since 45 years.<br>
-To reach to customers as much as close possible a website is built from where they can get any information like policy details, which policies are available and many more.<br>
-Even if they provide their age,term,sum assured and select the policy they will come to know how much premium they have to per year from the website.<br>
-If then also they have some doubts then a chatbot is available for 24 X 7 hours. Just go to ‘Chat with Us’ and write question , chatbot will provide answer related to it.<br>
+Every student are on the verge of making their life secured after completing schooling. <br> 
+Hence, they sit for competitive exams. But their, success is determined only through the rank they obtain in that corresponding exam. <br>
+Hence they make certain predictions about what rank they might obtain based on the score they get. <br>
+But that might be wrong sometimes, if they don't know the scoring trends of the exams. <br>
+Hence, we have come up with a rank predictor website, which follows the scoring trends of almost all the competitive exams in the country, with 24*7 chat service, where students can post their doubts regarding those domains. <br>
+Also we come with a page where we suggest the best engineering colleges and medical colleges of the country along with the entrance exams that needs to be cleared for a corresponding college.<br>
 
 ## Languages And Services Used:
 
